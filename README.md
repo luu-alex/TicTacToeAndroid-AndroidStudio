@@ -1,5 +1,5 @@
 # TicTacToeAndroid
-This is my first android app I have created with android studio and its a tic tac toe app.
+This is my first android app I have created with android studio making a tic tac toe app.
 
 
 ![alt text](https://i.imgur.com/3um6AKd.png)
